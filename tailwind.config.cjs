@@ -2,10 +2,16 @@
 module.exports = {
   content: [
     "./index.html",
-    "./src/**/*.{js,ts,jsx,tsx}",
+    "./src/**/*.jsx",
+    "./src/components/**/*.jsx",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        poppins: ['Poppins', 'sans-serif'],
+        sunnyspells: ["SunnySpells", "sans-serif"],
+      },
+    },
   },
   plugins: [],
 }

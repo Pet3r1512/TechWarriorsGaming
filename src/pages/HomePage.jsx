@@ -1,5 +1,5 @@
 export default function HomePage() {
     return (
-        <p>This is home page</p>
+        <p className="font-sunnyspells text-red-500">This is home page</p>
     )
 }
