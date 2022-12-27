@@ -1,5 +1,12 @@
+// Component
+import { Header, Footer } from "../components"
+
 export default function HomePage() {
     return (
-        <p className="font-sunnyspells text-red-500">This is home page</p>
+        <>
+            <Header />
+            <p className="font-sunnyspells text-red-500">This is home page</p>
+            <Footer />
+        </>
     )
 }
