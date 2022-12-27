@@ -1,3 +1,5 @@
-# TechWarriorsGaming
+# TechWarriorsGaming || TWG
 
-[Thanh Phong](https://github.com/Pet3r1512)
+## Meet Our Team
+
+- [Thanh Phong](https://github.com/Pet3r1512) (TWG Kazie)
