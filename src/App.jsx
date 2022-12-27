@@ -1,6 +1,9 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
-//Pages
+// TailwindCSS
+import './index.css'
+
+// Pages
 import HomePage from "./pages/homepage";
 
 function App() {
